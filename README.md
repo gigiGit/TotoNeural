@@ -7,8 +7,4 @@ Suddivisa la rete in due possibili modalità
   1) InputLayer (dim = nsquadre*2) [+ hiddenLayer1 (x)] [+ hiddenLayer2 (y)] + outputLayer (3 = 1X2)
   2) 3 reti ognuna specializzata sul risultato 1 = Vittoria in casa 2 = vittoria fuori casa X = pareggio
     InputLayer (dim = nsquadre*2) [+ hiddenLayer (x)] [+ hiddenLayer2 (y)] + outputLayer (1) 
-    
-<<<<<<< HEAD
-
-=======
->>>>>>> ba3c63038ed27798a30db13c26da3188efcafb67
+---------------------------------------------------------------------------------------------------------    
